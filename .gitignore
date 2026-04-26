@@ -1,0 +1,28 @@
+# Java & Gradle
+.gradle/
+build/
+bin/
+out/
+.m2/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+.idea/workspace.xml
+.idea/tasks.xml
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Socratic Tutor Specific
+secrets.properties
+credentials.json
+*.log
+.local_models/
+.ollama_cache/
+
+# Agents & Metadata
+.agents/scratchpad.md
